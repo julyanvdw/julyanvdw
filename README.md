@@ -5,7 +5,7 @@ I am a Computer Science student at the Univeristy of Cape Town.
 
 🔭 - I'm currently working on building my Software Engineering skills by learning Computer Science concepts and builing projects.
 
-🌱 - I'm currently externally learning through Hardvard's CS50 course
+🌱 - I'm currently externally learning through Hardvard's CS50 course, as well as other structured certificates.
 
 😋 - I love front-end development, UI/UX and Web Development
 
